@@ -16,5 +16,4 @@ A basic notepad application built with Java Swing. It allows users to add, view,
 - Java 8 or higher
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
