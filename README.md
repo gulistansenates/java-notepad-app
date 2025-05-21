@@ -9,8 +9,8 @@ A basic notepad application built with Java Swing. It allows users to add, view,
 - 
 ## 🖼️ Screenshots
 
-<img src="images/sc1.png" alt="Ana Ekran" width="400"/>
-<img src="images/sc2.png" alt="Ana Ekran" width="400"/>
+<img src="images/sc1.png" alt="Ana Ekran" width="300"/>
+<img src="images/sc2.png" alt="Ana Ekran" width="300"/>
 
 ## How to Run
 1. Clone or download the repository.
