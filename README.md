@@ -6,6 +6,11 @@ A basic notepad application built with Java Swing. It allows users to add, view,
 - Add new notes
 - Delete selected notes
 - Display notes in a list
+- 
+## 🖼️ Screenshots
+
+<img src="images/sc1.png" alt="Ana Ekran" width="400"/>
+<img src="images/sc2.png" alt="Ana Ekran" width="400"/>
 
 ## How to Run
 1. Clone or download the repository.
